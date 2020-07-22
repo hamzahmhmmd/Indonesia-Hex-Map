@@ -1,0 +1,280 @@
+shape id,point id,columns,rows,provinsi,ISO
+0,0,0,582,Aceh,AC
+0,1,29,533,Aceh,AC
+0,2,85,533,Aceh,AC
+0,3,114,582,Aceh,AC
+0,4,85,633,Aceh,AC
+0,5,29,633,Aceh,AC
+0,6,0,582,Aceh,AC
+1,0,255,232,Lampung,LA
+1,1,284,183,Lampung,LA
+1,2,340,183,Lampung,LA
+1,3,369,232,Lampung,LA
+1,4,340,283,Lampung,LA
+1,5,284,283,Lampung,LA
+1,6,255,232,Lampung,LA
+2,0,255,332,Sumatra Selatan,SS
+2,1,284,283,Sumatra Selatan,SS
+2,2,340,283,Sumatra Selatan,SS
+2,3,369,332,Sumatra Selatan,SS
+2,4,340,383,Sumatra Selatan,SS
+2,5,284,383,Sumatra Selatan,SS
+2,6,255,332,Sumatra Selatan,SS
+3,0,255,532,Kepulauan Riau,KR
+3,1,284,483,Kepulauan Riau,KR
+3,2,340,483,Kepulauan Riau,KR
+3,3,369,532,Kepulauan Riau,KR
+3,4,340,583,Kepulauan Riau,KR
+3,5,284,583,Kepulauan Riau,KR
+3,6,255,532,Kepulauan Riau,KR
+4,0,170,282,Bengkulu,BE
+4,1,199,233,Bengkulu,BE
+4,2,255,233,Bengkulu,BE
+4,3,284,282,Bengkulu,BE
+4,4,255,333,Bengkulu,BE
+4,5,199,333,Bengkulu,BE
+4,6,170,282,Bengkulu,BE
+5,0,170,382,Jambi,JA
+5,1,199,333,Jambi,JA
+5,2,255,333,Jambi,JA
+5,3,284,382,Jambi,JA
+5,4,255,433,Jambi,JA
+5,5,199,433,Jambi,JA
+5,6,170,382,Jambi,JA
+6,0,170,482,Riau,RI
+6,1,199,433,Riau,RI
+6,2,255,433,Riau,RI
+6,3,284,482,Riau,RI
+6,4,255,533,Riau,RI
+6,5,199,533,Riau,RI
+6,6,170,482,Riau,RI
+7,0,85,432,Sumatra Barat,SB
+7,1,114,383,Sumatra Barat,SB
+7,2,170,383,Sumatra Barat,SB
+7,3,199,432,Sumatra Barat,SB
+7,4,170,483,Sumatra Barat,SB
+7,5,114,483,Sumatra Barat,SB
+7,6,85,432,Sumatra Barat,SB
+8,0,85,532,Sumatra Utara,SU
+8,1,114,483,Sumatra Utara,SU
+8,2,170,483,Sumatra Utara,SU
+8,3,199,532,Sumatra Utara,SU
+8,4,170,583,Sumatra Utara,SU
+8,5,114,583,Sumatra Utara,SU
+8,6,85,532,Sumatra Utara,SU
+9,0,340,382,Kepulauan Bangka Belitung,BB
+9,1,369,333,Kepulauan Bangka Belitung,BB
+9,2,425,333,Kepulauan Bangka Belitung,BB
+9,3,454,382,Kepulauan Bangka Belitung,BB
+9,4,425,433,Kepulauan Bangka Belitung,BB
+9,5,369,433,Kepulauan Bangka Belitung,BB
+9,6,340,382,Kepulauan Bangka Belitung,BB
+10,0,425,132,Banten,BT
+10,1,454,83,Banten,BT
+10,2,510,83,Banten,BT
+10,3,539,132,Banten,BT
+10,4,510,183,Banten,BT
+10,5,454,183,Banten,BT
+10,6,425,132,Banten,BT
+11,0,510,82,Jawa Barat,JB
+11,1,539,33,Jawa Barat,JB
+11,2,595,33,Jawa Barat,JB
+11,3,624,82,Jawa Barat,JB
+11,4,595,133,Jawa Barat,JB
+11,5,539,133,Jawa Barat,JB
+11,6,510,82,Jawa Barat,JB
+12,0,510,182,DKI Jakarta,JK
+12,1,539,133,DKI Jakarta,JK
+12,2,595,133,DKI Jakarta,JK
+12,3,624,182,DKI Jakarta,JK
+12,4,595,233,DKI Jakarta,JK
+12,5,539,233,DKI Jakarta,JK
+12,6,510,182,DKI Jakarta,JK
+13,0,595,132,Jawa Tengah,JT
+13,1,624,83,Jawa Tengah,JT
+13,2,680,83,Jawa Tengah,JT
+13,3,709,132,Jawa Tengah,JT
+13,4,680,183,Jawa Tengah,JT
+13,5,624,183,Jawa Tengah,JT
+13,6,595,132,Jawa Tengah,JT
+14,0,680,82,Yogyakarta,YO
+14,1,709,33,Yogyakarta,YO
+14,2,765,33,Yogyakarta,YO
+14,3,794,82,Yogyakarta,YO
+14,4,765,133,Yogyakarta,YO
+14,5,709,133,Yogyakarta,YO
+14,6,680,82,Yogyakarta,YO
+15,0,765,132,Jawa Timur,JI
+15,1,794,83,Jawa Timur,JI
+15,2,850,83,Jawa Timur,JI
+15,3,879,132,Jawa Timur,JI
+15,4,850,183,Jawa Timur,JI
+15,5,794,183,Jawa Timur,JI
+15,6,765,132,Jawa Timur,JI
+16,0,510,382,Kalimatan Barat,KB
+16,1,539,333,Kalimatan Barat,KB
+16,2,595,333,Kalimatan Barat,KB
+16,3,624,382,Kalimatan Barat,KB
+16,4,595,433,Kalimatan Barat,KB
+16,5,539,433,Kalimatan Barat,KB
+16,6,510,382,Kalimatan Barat,KB
+17,0,595,332,Kalimatan Selatan,KS
+17,1,624,283,Kalimatan Selatan,KS
+17,2,680,283,Kalimatan Selatan,KS
+17,3,709,332,Kalimatan Selatan,KS
+17,4,680,383,Kalimatan Selatan,KS
+17,5,624,383,Kalimatan Selatan,KS
+17,6,595,332,Kalimatan Selatan,KS
+18,0,595,432,Kalimantan Tengah,KT
+18,1,624,383,Kalimantan Tengah,KT
+18,2,680,383,Kalimantan Tengah,KT
+18,3,709,432,Kalimantan Tengah,KT
+18,4,680,483,Kalimantan Tengah,KT
+18,5,624,483,Kalimantan Tengah,KT
+18,6,595,432,Kalimantan Tengah,KT
+19,0,680,382,Kalimantan Timur,KI
+19,1,709,333,Kalimantan Timur,KI
+19,2,765,333,Kalimantan Timur,KI
+19,3,794,382,Kalimantan Timur,KI
+19,4,765,433,Kalimantan Timur,KI
+19,5,709,433,Kalimantan Timur,KI
+19,6,680,382,Kalimantan Timur,KI
+20,0,680,482,Kalimantan Utara,KU
+20,1,709,433,Kalimantan Utara,KU
+20,2,765,433,Kalimantan Utara,KU
+20,3,794,482,Kalimantan Utara,KU
+20,4,765,533,Kalimantan Utara,KU
+20,5,709,533,Kalimantan Utara,KU
+20,6,680,482,Kalimantan Utara,KU
+21,0,850,382,Sulawesi Selatan,SN
+21,1,879,333,Sulawesi Selatan,SN
+21,2,935,333,Sulawesi Selatan,SN
+21,3,964,382,Sulawesi Selatan,SN
+21,4,935,433,Sulawesi Selatan,SN
+21,5,879,433,Sulawesi Selatan,SN
+21,6,850,382,Sulawesi Selatan,SN
+22,0,850,482,Sulawesi Barat,SR
+22,1,879,433,Sulawesi Barat,SR
+22,2,935,433,Sulawesi Barat,SR
+22,3,964,482,Sulawesi Barat,SR
+22,4,935,533,Sulawesi Barat,SR
+22,5,879,533,Sulawesi Barat,SR
+22,6,850,482,Sulawesi Barat,SR
+23,0,850,582,Gorontalo,GO
+23,1,879,533,Gorontalo,GO
+23,2,935,533,Gorontalo,GO
+23,3,964,582,Gorontalo,GO
+23,4,935,633,Gorontalo,GO
+23,5,879,633,Gorontalo,GO
+23,6,850,582,Gorontalo,GO
+24,0,935,132,Bali,BA
+24,1,964,83,Bali,BA
+24,2,1020,83,Bali,BA
+24,3,1049,132,Bali,BA
+24,4,1020,183,Bali,BA
+24,5,964,183,Bali,BA
+24,6,935,132,Bali,BA
+25,0,935,332,Sulawesi Tenggara,SG
+25,1,964,283,Sulawesi Tenggara,SG
+25,2,1020,283,Sulawesi Tenggara,SG
+25,3,1049,332,Sulawesi Tenggara,SG
+25,4,1020,383,Sulawesi Tenggara,SG
+25,5,964,383,Sulawesi Tenggara,SG
+25,6,935,332,Sulawesi Tenggara,SG
+26,0,935,432,Sulawesi Tengah,ST
+26,1,964,383,Sulawesi Tengah,ST
+26,2,1020,383,Sulawesi Tengah,ST
+26,3,1049,432,Sulawesi Tengah,ST
+26,4,1020,483,Sulawesi Tengah,ST
+26,5,964,483,Sulawesi Tengah,ST
+26,6,935,432,Sulawesi Tengah,ST
+27,0,935,632,Sulawesi Utara,SA
+27,1,964,583,Sulawesi Utara,SA
+27,2,1020,583,Sulawesi Utara,SA
+27,3,1049,632,Sulawesi Utara,SA
+27,4,1020,683,Sulawesi Utara,SA
+27,5,964,683,Sulawesi Utara,SA
+27,6,935,632,Sulawesi Utara,SA
+28,0,1105,132,Nusa Tenggara Barat,NB
+28,1,1134,83,Nusa Tenggara Barat,NB
+28,2,1190,83,Nusa Tenggara Barat,NB
+28,3,1219,132,Nusa Tenggara Barat,NB
+28,4,1190,183,Nusa Tenggara Barat,NB
+28,5,1134,183,Nusa Tenggara Barat,NB
+28,6,1105,132,Nusa Tenggara Barat,NB
+29,0,1105,332,Maluku,MA
+29,1,1134,283,Maluku,MA
+29,2,1190,283,Maluku,MA
+29,3,1219,332,Maluku,MA
+29,4,1190,383,Maluku,MA
+29,5,1134,383,Maluku,MA
+29,6,1105,332,Maluku,MA
+30,0,1105,532,Maluku Utara,MU
+30,1,1134,483,Maluku Utara,MU
+30,2,1190,483,Maluku Utara,MU
+30,3,1219,532,Maluku Utara,MU
+30,4,1190,583,Maluku Utara,MU
+30,5,1134,583,Maluku Utara,MU
+30,6,1105,532,Maluku Utara,MU
+31,0,1190,182,Nusa Tenggara Timur,NT
+31,1,1219,133,Nusa Tenggara Timur,NT
+31,2,1275,133,Nusa Tenggara Timur,NT
+31,3,1304,182,Nusa Tenggara Timur,NT
+31,4,1275,233,Nusa Tenggara Timur,NT
+31,5,1219,233,Nusa Tenggara Timur,NT
+31,6,1190,182,Nusa Tenggara Timur,NT
+32,0,1275,432,Papua Barat,PB
+32,1,1304,383,Papua Barat,PB
+32,2,1360,383,Papua Barat,PB
+32,3,1389,432,Papua Barat,PB
+32,4,1360,483,Papua Barat,PB
+32,5,1304,483,Papua Barat,PB
+32,6,1275,432,Papua Barat,PB
+33,0,1360,282,Papua,PA
+33,1,1389,233,Papua,PA
+33,2,1445,233,Papua,PA
+33,3,1474,282,Papua,PA
+33,4,1445,333,Papua,PA
+33,5,1474,382,Papua,PA
+33,6,1445,433,Papua,PA
+33,7,1389,433,Papua,PA
+33,8,1360,382,Papua,PA
+33,9,1389,333,Papua,PA
+33,10,1360,282,Papua,PA
+34,0,1275,132,,
+34,1,1304,83,,
+34,2,1360,83,,
+34,3,1389,132,,
+34,4,1360,183,,
+34,5,1304,183,,
+34,6,1275,132,,
+35,0,1445,232,,
+35,1,1474,183,,
+35,2,1530,183,,
+35,3,1559,232,,
+35,4,1530,283,,
+35,5,1559,332,,
+35,6,1530,383,,
+35,7,1559,432,,
+35,8,1530,483,,
+35,9,1474,483,,
+35,10,1445,432,,
+35,11,1474,383,,
+35,12,1445,332,,
+35,13,1474,283,,
+35,14,1445,232,,
+36,0,510,482,,
+36,1,539,433,,
+36,2,595,433,,
+36,3,624,482,,
+36,4,680,483,,
+36,5,709,532,,
+36,6,765,533,,
+36,7,794,582,,
+36,8,765,633,,
+36,9,709,633,,
+36,10,680,582,,
+36,11,624,583,,
+36,12,595,532,,
+36,13,539,533,,
+36,14,510,482,,
