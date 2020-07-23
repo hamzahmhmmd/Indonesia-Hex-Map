@@ -1,5 +1,5 @@
 # IndonesiaHexMap
-![](https://i.imgur.com/2LszTSh.png)
+![](https://i.imgur.com/ewLestG.png)
 
 ### indonesia hex map currently i use it for my tableau worksheet, feel free to using it
 
